@@ -12,6 +12,9 @@
  This work is developed as part of academic learning to gain hands-on     
  experience in Machine Learning and data analysis. 
  
+## 👤 Student Information
+
+```sql
 +----------------------+----------------------------------+
 | Field                | Details                          |
 +----------------------+----------------------------------+
