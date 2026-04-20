@@ -12,22 +12,22 @@
  This work is developed as part of academic learning to gain hands-on     
  experience in Machine Learning and data analysis. 
  
-+----------------------+----------------------------+
-| Field                | Details                    |
-+----------------------+----------------------------+
-| Name                 | Raghav Dimri               |
-| Roll No              | 2K24CSUN01122              |
-| Class                | B.Tech CSE-4B (2nd Year)   |
-| College              | Manav Rachna University    |
-| Subject              | Machine Learning           |
-| Project              | ML Algorithms Notebook     |
-| Course Code          | CSH217C                    |
-+----------------------+----------------------------+
++----------------------+----------------------------------+
+| Field                | Details                          |
++----------------------+----------------------------------+
+| Name                 | Raghav Dimri                     |
+| Roll No              | 2K24CSUN01122                    |
+| Class                | B.Tech CSE-4B (2nd Year)         |
+| College              | Manav Rachna University          |
+| Subject              | Machine Learning                 |
+| Project              | ML Algorithms Notebook           |
+| Course Code          | CSH217C                          |
++----------------------+----------------------------------+
 
 # Structure
 
 ML-Algorithms/
-│── Algo/
+│── notebooks/
 │   ├── data_preprocessing.ipynb
 │   ├── linear_regression.ipynb
 │   ├── logistic_regression.ipynb
@@ -47,10 +47,10 @@ Matplotlib
 Scikit-learn
 
 # 🎯 Objectives
-Understand basic ML workflows
-Perform data preprocessing
-Build regression and classification models
-Work with real-world datasets
+- Understand ML basics
+- Perform data preprocessing
+- Build regression models
+- Build classification models
 
 # 📌 Notebooks Included
 Data Preprocessing
