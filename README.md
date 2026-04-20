@@ -26,8 +26,10 @@
 | Project              | ML Algorithms Notebook           |
 | Course Code          | CSH217C                          |
 +----------------------+----------------------------------+
+```
+## 👤 Structure
 
-# Structure
+```sql
 
 ML-Algorithms/
 │── notebooks/
@@ -42,20 +44,24 @@ ML-Algorithms/
 │
 │── README.md
 
-# ⚙️ Technologies Used
+```
+## ⚙️ Technologies Used
+```sql
 Python
 Pandas
 NumPy
 Matplotlib
 Scikit-learn
-
-# 🎯 Objectives
+```
+## 🎯 Objectives
+```sql
 - Understand ML basics
 - Perform data preprocessing
 - Build regression models
 - Build classification models
 
-# 📌 Notebooks Included
+## 📌 Notebooks Included
+```sql
 Data Preprocessing
   1.Handling missing values
   2.Encoding categorical data
@@ -66,9 +72,10 @@ Linear Regression
 Logistic Regression
   1.Titanic Dataset classification
   2.Predicting survival
-
-# 📂 Datasets Used
+```
+## 📂 Datasets Used
+```sql
 Car Dataset → Used for data preprocessing
 House Price Prediction Dataset → Used in Linear Regression
 Titanic Dataset → Used in Logistic Regression
-  
+```
