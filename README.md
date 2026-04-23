@@ -36,6 +36,7 @@ ML-Algorithms/
 │   ├── data_preprocessing.ipynb
 │   ├── linear_regression.ipynb
 │   ├── logistic_regression.ipynb
+│   ├── Support_vector_machine_classfier.ipynb
 │
 │── data/
 │   ├── car_dataset.csv
@@ -72,10 +73,14 @@ Linear Regression
 Logistic Regression
   1.Titanic Dataset classification
   2.Predicting survival
+Support vector machine classfier
+  1.training dataset
+  2.predicting classes
 ```
 ## 📂 Datasets Used
 ```sql
 Car Dataset → Used for data preprocessing
 House Price Prediction Dataset → Used in Linear Regression
 Titanic Dataset → Used in Logistic Regression
+sk learn custom classification  -> Used in Support vector machine
 ```
